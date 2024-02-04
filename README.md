@@ -2,15 +2,13 @@
 This is a clone app of Threads app but with customized features, built with SwiftUI and Node JS. 
 
 # Features
-- Share what you feel today
-
-- Customize your profile
+- Post what you love
 
 - You can like or comment on others posts
 
-- You can follow anyone you want
+- You can follow/unfollow anyone you want
 
-- You can have either public or private profile
+- You can edit your profile
   
 # 📱 Threads App Clone
 
