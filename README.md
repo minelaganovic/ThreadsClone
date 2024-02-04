@@ -16,12 +16,12 @@ This is a clone app of Threads app but with customized features, built with Swif
 
 ## 
 
-<img src="ThreasdsClone_SwiftUI/img1.jpg" alt="image">
+<img src="ThreadsClone_SwiftUI/img1.jpg" alt="image">
 
 ### 
 
-<img src="ThreasdsClone_SwiftUI/img2.jpg" alt="image">
+<img src="ThreadsClone_SwiftUI/img2.jpg" alt="image">
 
 #### 
 
-<img src="ThreasdsClone_SwiftUI/img3.jpg" alt="image">
+<img src="ThreadsClone_SwiftUI/img3.jpg" alt="image">
