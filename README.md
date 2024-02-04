@@ -14,7 +14,7 @@ This is a clone app of Threads app but with customized features, built with Swif
   
 # 📱 Threads App Clone
 
-## 
+###
 
 <img src="ThreadsClone_SwiftUI/img1.jpg" alt="image">
 
