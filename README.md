@@ -14,14 +14,14 @@ This is a clone app of Threads app but with customized features, built with Swif
   
 # 📱 Threads App Clone
 
-## Sign-in and Sign-up 
+## 
 
-<img src="img1.jpg" alt="image">
+<img src="ThreasdsClone_SwiftUI/img1.jpg" alt="image">
 
-## Home 
+### 
 
-<img src="img2.jpg" alt="image">
+<img src="ThreasdsClone_SwiftUI/img2.jpg" alt="image">
 
-## Profile 
+#### 
 
-<img src="img3.jpg" alt="image">
+<img src="ThreasdsClone_SwiftUI/img3.jpg" alt="image">
