@@ -24,4 +24,4 @@ This is a clone app of Threads app but with customized features, built with Swif
 
 ## Profile 
 
-<img src="assets/image3.png" alt="image">
+<img src="img3.jpg" alt="image">
